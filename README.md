@@ -1,11 +1,12 @@
 # 怪兽英语大冒险 · 技术支持
 
-Monster English technical support website.
+Monster English technical support and privacy policy website.
 
 - 支持网址：https://lionsky123.github.io/Monster-English-support/support.html
+- 隐私政策：https://lionsky123.github.io/Monster-English-support/privacy.html
 - 问题反馈：https://github.com/lionsky123/Monster-English-support/issues
 
-页面提供中英文切换、冒险入门指南、常见问题搜索和 GitHub Issues 反馈草稿。
+页面提供中英文切换、冒险入门指南、常见问题搜索、GitHub Issues 反馈草稿和隐私政策。
 
 ## 发布
 
